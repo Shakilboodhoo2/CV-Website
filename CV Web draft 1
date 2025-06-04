@@ -1,0 +1,133 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Shakil Boodhoo | CV Website</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+      line-height: 1.6;
+      background: #f4f4f4;
+      color: #333;
+    }
+    .container {
+      max-width: 900px;
+      margin: 0 auto;
+      padding: 20px;
+      background: #fff;
+    }
+    h1, h2, h3 {
+      color: #444;
+    }
+    .section {
+      margin-bottom: 30px;
+    }
+    ul {
+      padding-left: 20px;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1>Shakil Boodhoo</h1>
+    <p><strong>Address:</strong> 12 Saleha, Katode Street, Radiokop</p>
+    <p><strong>Phone:</strong> +27 71 634 6230</p>
+    <p><strong>Email:</strong> shakilboodhoo2@gmail.com</p>
+    <p><strong>Date of Birth:</strong> 02/08/2004</p>
+    <p><strong>Nationality:</strong> South African, Gauteng</p>
+    <p><strong>Marital Status:</strong> Single</p>
+    <p><strong>Languages:</strong> English (Home), Afrikaans</p>
+    <p><strong>Driver's License:</strong> Code B</p>
+
+    <div class="section">
+      <h2>Resume Objective</h2>
+      <p>Enthusiastic and professional individual seeking a full-time position that leverages my skills and experiences. Committed to contributing positively to a team environment while continuously seeking opportunities for personal and professional growth. Eager to apply my strong communication, analytical, and organizational skills to support and enhance organizational objectives.</p>
+    </div>
+
+    <div class="section">
+      <h2>Education</h2>
+      <p><strong>Highest Standard Passed:</strong> Matric Exemption (2022)</p>
+      <p><strong>School Attended:</strong> Charter College</p>
+      <p><strong>Subjects:</strong> English, Afrikaans, Mathematics, Geography, Business, ICT</p>
+    </div>
+
+    <div class="section">
+      <h2>Computer Literacy</h2>
+      <ul>
+        <li>Microsoft Office: Advanced Excel, Word, PowerPoint, Outlook</li>
+        <li>Video Editing</li>
+        <li>Sound Editing</li>
+        <li>Website Editing with WordPress</li>
+      </ul>
+    </div>
+
+    <div class="section">
+      <h2>Professional Skills</h2>
+      <ul>
+        <li>Communication</li>
+        <li>Attention to Detail</li>
+        <li>Leadership</li>
+        <li>Analytical Skills</li>
+        <li>Project Management</li>
+        <li>Customer Service</li>
+      </ul>
+    </div>
+
+    <div class="section">
+      <h2>Strengths</h2>
+      <ul>
+        <li>Strong communication skills</li>
+        <li>Exceptional attention to detail</li>
+        <li>Assertive and driven</li>
+        <li>High integrity and honesty</li>
+        <li>Leadership abilities</li>
+        <li>Energetic and results-oriented</li>
+        <li>Independent and self-motivated</li>
+        <li>Consistently meet deadlines</li>
+        <li>Strong technical and computer skills</li>
+        <li>Quick learner</li>
+      </ul>
+    </div>
+
+    <div class="section">
+      <h2>Weaknesses</h2>
+      <p>Highly competitive, which can sometimes lead to an overemphasis on personal performance at the expense of team collaboration.</p>
+    </div>
+
+    <div class="section">
+      <h2>Certifications</h2>
+      <ul>
+        <li>Google Search Certification</li>
+        <li>Google Display Certification</li>
+        <li>Google AI-Powered Performance Certification</li>
+      </ul>
+    </div>
+
+    <div class="section">
+      <h2>Professional Experience</h2>
+      <h3>Reach Engage Develop – Media Buyer (Google & Meta)</h3>
+      <p><strong>May 2024 – Present</strong></p>
+      <ul>
+        <li>Media buying for Google and Meta platforms</li>
+        <li>Executed and optimized ad strategies</li>
+        <li>Performance analysis and data-driven decisions</li>
+        <li>Cross-functional team collaboration</li>
+        <li>Kept up with industry trends</li>
+      </ul>
+
+      <h3>Kalahari Arms CC – Shop Hand / Junior Salesperson</h3>
+      <p><strong>Dec 2022 – May 2024</strong></p>
+      <ul>
+        <li>Customer service and product assistance</li>
+        <li>Website updates</li>
+        <li>Inventory stocktakes</li>
+        <li>Admin duties and transaction processing</li>
+        <li>Stock collection and coordination with suppliers</li>
+      </ul>
+    </div>
+  </div>
+</body>
+</html>
